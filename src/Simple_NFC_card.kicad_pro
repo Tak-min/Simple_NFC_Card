@@ -491,7 +491,7 @@
       "idf": "",
       "netlist": "../../",
       "plot": "./Gervers",
-      "pos_files": "",
+      "pos_files": "./",
       "specctra_dsn": "",
       "step": "",
       "svg": "",

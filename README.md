@@ -1,5 +1,7 @@
 # Simple_NFC_Card
 
+![NFC Card Image](image3.png)
+
 ## Simple NFC Card Project
 
 This project contains a set of design data for a simple NFC card created with KiCAD.
